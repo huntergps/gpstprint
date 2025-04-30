@@ -6,6 +6,8 @@
 /.idea/uiDesigner.xml
 /.idea/compiler.xml
 /fx.zip
+/README.md
 /provision.json
 .DS_Store
 windows-debug-launcher.nsi.in
+/ant/private/qz.ks
